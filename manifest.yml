@@ -1,0 +1,6 @@
+---
+applications:
+- name: GSD
+  memory: 1024M
+  host: gsd
+  domain: cfapps.eu10.hana.ondemand.com
